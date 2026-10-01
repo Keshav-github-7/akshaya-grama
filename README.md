@@ -1,38 +1,17 @@
-# Akshaya Grama — Website
+# Akshaya Grama — Website refresh
 
-Static, GitHub Pages-ready website for **Akshaya Grama – Experience the Soul of Rural India**, Chinnasandra Village, Chintamani Taluk, Chikkaballapur District, Karnataka.
+Premium, responsive static website for Akshaya Grama, Chinnasandra Village, Karnataka. Built with plain HTML, CSS and JavaScript for GitHub Pages (no build step, package manager, or backend).
 
-## What is included
-- Responsive single-page website
-- Actual property photographs supplied for the project
-- Supplied property video
-- Rural tourism experiences and livelihood sections
-- Nearby attractions and guest packages
-- WhatsApp and phone booking CTAs
-- Google Maps location embed
-- Website QR code pointing to `https://www.akshayagrama.in/`
-- Gallery lightbox with video playback
-- Custom-domain `CNAME` for `www.akshayagrama.in`
+## Publish the refresh
+1. Open the repository `Keshav-github-7/akshaya-grama` on GitHub.
+2. Upload/replace `index.html`, `styles.css`, and `script.js` in the repository root.
+3. Upload the new files from `assets/images/` into the existing `assets/images/` folder (keep the existing property and room photos).
+4. **Keep the existing `assets/video/` folder and its MP4**; this refresh references the same video and poster paths already in your repository.
+5. Keep the existing `CNAME` containing `www.akshayagrama.in`. Do not change DNS, Pages settings, or HTTPS.
+6. Commit the changes to `main`. GitHub Pages will deploy automatically; allow a few minutes, then hard-refresh the site.
 
-## Files
-- `index.html` — website content and structure
-- `styles.css` — visual design and responsive layout
-- `script.js` — mobile navigation and gallery lightbox
-- `assets/images/` — supplied property photographs
-- `assets/video/` — supplied property video and poster
-- `assets/qr/` — scannable website QR code
-- `CNAME` — GitHub Pages custom domain
-
-## Publish on GitHub Pages
-1. Create a new GitHub repository, e.g. `akshaya-grama-website`.
-2. Upload the **contents of this folder** to the repository root.
-3. Go to **Settings → Pages**.
-4. Under Build and deployment, select **Deploy from a branch**.
-5. Select the `main` branch and `/ (root)` folder.
-6. Save and wait for GitHub Pages to publish.
-7. If using the included `CNAME`, configure DNS for `www.akshayagrama.in` as instructed by GitHub.
-
-## Important
-The website is intentionally built with plain HTML/CSS/JavaScript, so it can be hosted directly on GitHub Pages without Node.js, npm, a database or a backend.
-
-For production, replace/add photographs as the rural experiences are documented. The current gallery uses the actual property images supplied for this project.
+## Notes
+- Attraction image files are crops of the attraction artwork supplied for the project; some original artwork includes decorative framing.
+- Distances are approximate and taken from the supplied Akshaya Grama package content.
+- WhatsApp enquiry opens chat with +91 95919 71455; the second contact number is available as a call link.
+- Review all experience descriptions, photos, availability and local travel conditions before publishing. No rates are shown because package prices were not provided.
