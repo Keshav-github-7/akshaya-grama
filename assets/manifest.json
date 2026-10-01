@@ -1,0 +1,17 @@
+{
+  "images": [
+    "property-01-exterior.jpeg",
+    "property-02-veranda.jpeg",
+    "property-03-signage.jpeg",
+    "property-04-signage-detail.jpeg",
+    "room-01-wall.jpeg",
+    "room-02-wall.jpeg",
+    "room-03-entry.jpeg",
+    "room-04-corner.jpeg",
+    "room-05-bed.jpeg",
+    "room-06-bed-window.jpeg",
+    "room-07-bed-detail.jpeg"
+  ],
+  "video": "assets/video/akshaya-grama-property-video.mp4",
+  "qr": "assets/qr/akshaya-grama-website-qr.png"
+}
